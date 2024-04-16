@@ -1,1 +1,7 @@
+
 # Mobile-Price-Classification
+
+
+The project would target classifying mobile phones into various price ranges depending on the phone features and using machine-learning techniques. The data set has scores for these features like battery power, camera quality, internal memory, and connectivity options such as Bluetooth, dual SIM capability, 4G support, and Wi-Fi along with the price ranges as labels. The aim is to build a model that can estimate the price category correctly through these features. The algorithms implemented are **K—Nearest Neighbors (KNN), Support Vector Machine (SVM), Gaussian Naive Bayes (NB) Classifier, and Artificial Neural Network (ANN),** with their **accuracies 93.47%, 96.08%, 84.59%, and 95.25% respectively,** being achieved . The project process entails the practice of basic statistical functions, functional data processing, feature extraction, create various models, and carry out the model evaluation among the various metrics used to be able to choose the best model.
+
+In general, the completion of the project leads to a firm conviction that the machine learning can manage perfectly the process of classification of mobile phones by price tier. It serves among other things, pricing strategies and department of Market segmentation in the field of mobile.
